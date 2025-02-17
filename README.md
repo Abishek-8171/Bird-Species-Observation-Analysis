@@ -1,5 +1,5 @@
 # Bird-Species-Observation-Analysis
-In this project, I examine bird diversity in forests and grasslands using a bird observation dataset. By analyzing how environmental factors influence species distribution and behavior, I identify habitat preferences and patterns, providing insights for conservation and biodiversity management.
+In this project, I examined bird diversity in forests and grasslands using a bird observation dataset. By analyzing how environmental factors influence species distribution and behavior, I identified habitat preferences and patterns, providing insights for conservation and biodiversity management.
 ## Libraries Used
 ![Libraries](https://github.com/user-attachments/assets/58a5d124-3e1a-4c50-b714-be0deedbb12f)
 ## Data collection
