@@ -22,7 +22,7 @@ Plot-Level Analysis: To identify which plots attract more species or specific ki
 Diversity Metrics: To identify unique species observed and their distribution across Location_Type.
 Activity Patterns: To identify the most common activity types (e.g., Singing).
 ### Environmental Conditions
-Weather Correlation: To know how Temperature, Humidity, Sky, and Wind impact observations, such as the number of birds or their distances.
+Weather Correlation: To know how Temperature, Humidity, Sky, and Wind impact observations, such as their distances.
 Disturbance Effect: To identify the impact of Disturbance on bird sightings.
 ### Distance and Behavior
 Distance Analysis:  To identify species typically observed closer or farther from the observer.
