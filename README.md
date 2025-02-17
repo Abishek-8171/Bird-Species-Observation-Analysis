@@ -5,16 +5,16 @@ In this project, I examined bird diversity in forests and grasslands using a bir
 ## Data collection
 ![Data collection](https://github.com/user-attachments/assets/eec15401-3b50-455b-b2ce-8a5040d9005f)
 ## Data preprocessing & EDA
-###Handling missing values
-###Duplicate removal
-###Normalization
+### Handling missing values
+### Duplicate removal
+### Normalization
 ![EDA](https://github.com/user-attachments/assets/4fc1d8dd-7b82-4530-8e70-d319ae6d7af6)
 ## Transferring data to SQL
 ![to sql](https://github.com/user-attachments/assets/3f81f41a-9975-45a8-b322-b87375642e80)
 ## Analysis
 ### Temporal Analysis
 Seasonal Trends: To detect bird sightings across different seasons.
-Observation Time: To determine a specific time window that correlates with higher bird activity.
+Observation Time: To determine a specific time window correlating with higher bird activity.
 ### Spatial Analysis
 Location Insights: To identify biodiversity hotspots.
 Plot-Level Analysis: To identify which plots attract more species or specific kinds of birds.
