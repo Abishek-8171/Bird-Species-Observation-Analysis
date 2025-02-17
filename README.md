@@ -5,9 +5,9 @@ In this project, I examine bird diversity in forests and grasslands using a bird
 ## Data collection
 ![Data collection](https://github.com/user-attachments/assets/eec15401-3b50-455b-b2ce-8a5040d9005f)
 ## Data preprocessing & EDA
-*Handling missing values
-*Duplicate removal
-*Normalization
+Handling missing values
+Duplicate removal
+Normalization
 ![EDA](https://github.com/user-attachments/assets/4fc1d8dd-7b82-4530-8e70-d319ae6d7af6)
 ## Transferring data to SQL
 ![to sql](https://github.com/user-attachments/assets/3f81f41a-9975-45a8-b322-b87375642e80)
@@ -34,7 +34,7 @@ Visit Patterns: To see how repeated visits affect species count.
 Watchlist Trends: To identify trends in species that are at risk or require conservation focus.
 AOU Code Patterns: To identify the species with conservation priorities.
 ### Data Visualization
-Interactive visualizations using Plotly in Streamlit
+Interactive visualizations using Plotly in Streamlit.
 ![Streamlit](https://github.com/user-attachments/assets/e082dba6-ba7f-4d15-8656-45a4e266d790)
 
 
